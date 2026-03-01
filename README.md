@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+RIO;Android+Tech+Lead+%7C+KMP+Specialist;7%2B+Years+%7C+AI-Driven+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+RIO;Android+Tech+Lead+%7C+KMP+Specialist;8%2B+Years+%7C+AI-Driven+Dev" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -91,7 +91,6 @@
 |---------|-------------|------|
 | **[CivitDeck](https://github.com/rioX432/CivitDeck)** | CivitAI mobile browser for Android & iOS | KMP, Compose Multiplatform |
 | **[KMP-FaceLink](https://github.com/rioX432/KMP-FaceLink)** | Unified face tracking API — wraps MediaPipe (Android) & ARKit (iOS) into a single KMP interface | KMP, MediaPipe, ARKit |
-| **[claude-deck](https://github.com/rioX432/claude-deck)** | Mobile client for remotely managing multiple Claude Code instances | KMP |
 
 ### 🚀 Side Projects (Private)
 

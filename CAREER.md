@@ -8,7 +8,7 @@
 
 ### Summary
 
-7+ years of Android development, with iOS (2 years) and backend (Spring Boot, ~2 years). Leading modern technology adoption — Jetpack Compose, Kotlin Multiplatform, multi-module architecture — in production apps, from design through release and post-launch improvement. Also driving code review practices, architectural improvements, and dev process optimization to boost team productivity. Currently at AnotherBall as Android Tech Lead, also engaged in tech recruiting and Tech Blog operations. 4 years of collaboration with international teams in English.
+8+ years of Android development, with iOS (2 years) and backend (Spring Boot, ~2 years). Leading modern technology adoption — Jetpack Compose, Kotlin Multiplatform, multi-module architecture — in production apps, from design through release and post-launch improvement. Also driving code review practices, architectural improvements, and dev process optimization to boost team productivity. Currently at AnotherBall as Android Tech Lead, also engaged in tech recruiting and Tech Blog operations. 4 years of collaboration with international teams in English.
 
 ### Work Experience
 
@@ -58,7 +58,7 @@
 
 ### 職務要約
 
-Androidアプリ開発を7年以上主軸に、iOSアプリ開発（2年）、バックエンド開発（Spring Boot・約2年）を含むモバイル中心の開発に従事。Android領域では、Jetpack Compose、Kotlin Multiplatform、マルチモジュール構成などのモダン技術を実プロダクトへ導入し、設計・実装・リリース・運用まで一貫してリード。技術選定・アーキテクチャ改善・開発プロセス改善を通じてチーム全体の生産性と品質向上に貢献。現在はAnotherBallにてAndroid Tech Leadとして開発を担当しつつ、技術採用やTech Blog運営にも関与。海外エンジニアとの共同開発経験も約4年。
+Androidアプリ開発を8年以上主軸に、iOSアプリ開発（2年）、バックエンド開発（Spring Boot・約2年）を含むモバイル中心の開発に従事。Android領域では、Jetpack Compose、Kotlin Multiplatform、マルチモジュール構成などのモダン技術を実プロダクトへ導入し、設計・実装・リリース・運用まで一貫してリード。技術選定・アーキテクチャ改善・開発プロセス改善を通じてチーム全体の生産性と品質向上に貢献。現在はAnotherBallにてAndroid Tech Leadとして開発を担当しつつ、技術採用やTech Blog運営にも関与。海外エンジニアとの共同開発経験も約4年。
 
 ### 職務経歴
 
