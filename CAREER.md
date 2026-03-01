@@ -8,7 +8,7 @@
 
 ### Summary
 
-8+ years of Android development, 2 years of iOS, and 2 years of backend (Spring Boot). Leading adoption of modern technologies — Jetpack Compose, Kotlin Multiplatform, multi-module architecture — in production apps. 4 years of experience collaborating with international teams in English.
+7+ years of Android development, with iOS (2 years) and backend (Spring Boot, ~2 years). Leading modern technology adoption — Jetpack Compose, Kotlin Multiplatform, multi-module architecture — in production apps, from design through release and post-launch improvement. Also driving code review practices, architectural improvements, and dev process optimization to boost team productivity. Currently at AnotherBall as Android Tech Lead, also engaged in tech recruiting and Tech Blog operations. 4 years of collaboration with international teams in English.
 
 ### Work Experience
 
@@ -55,7 +55,7 @@
 
 ### 職務要約
 
-Androidアプリ開発を8年、iOSアプリ開発を2年、バックエンド（Spring Boot）開発を2年経験。特にAndroid領域では、Jetpack Compose、Kotlin Multiplatform、マルチモジュール構成など最新技術の導入を実プロダクトで推進し、設計から実装、リリース後の改善まで一貫してリード。英語を用いた海外メンバーとの共同開発（約4年）の経験も。
+Androidアプリ開発を7年以上主軸に、iOSアプリ開発（2年）、バックエンド開発（Spring Boot・約2年）を含むモバイル中心の開発に従事。Android領域では、Jetpack Compose、Kotlin Multiplatform、マルチモジュール構成などのモダン技術を実プロダクトへ導入し、設計・実装・リリース・運用まで一貫してリード。技術選定・アーキテクチャ改善・開発プロセス改善を通じてチーム全体の生産性と品質向上に貢献。現在はAnotherBallにてAndroid Tech Leadとして開発を担当しつつ、技術採用やTech Blog運営にも関与。海外エンジニアとの共同開発経験も約4年。
 
 ### 職務経歴
 
@@ -98,7 +98,7 @@ Androidアプリ開発を8年、iOSアプリ開発を2年、バックエンド�
 | Category | Skills |
 |----------|--------|
 | **Languages** | Kotlin/Java (8年) · Swift (2年) · C++ (4年) · Dart (1年) |
-| **Frameworks** | Jetpack Compose (3年) · KMP (2年) · Spring Boot (2年) · Flutter (1年) |
+| **Frameworks** | Jetpack Compose (3年) · KMP (2年) · Spring Boot (1〜2年) · Flutter (1年) |
 | **Reactive** | Coroutine (3年) · Flow (1.5年) · RxJava (2年) |
 | **CI/CD** | Firebase · Screwdriver · Fastlane · Circle CI |
 | **DB** | Room (8年) · SQLite (6年) · Realm (1年) |
