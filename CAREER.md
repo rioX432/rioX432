@@ -14,10 +14,13 @@
 
 #### AnotherBall Pte. Ltd. — *Android Tech Lead (Android / iOS)* (Jul 2025 ~ Present)
 
-- Leading Android development for **Avvy** — codebase improvement, architecture, performance optimization
-- Designing shared logic with **Kotlin Multiplatform** across Android/iOS
-- Driving code review practices, tech selection, and refactoring strategies
-- Also serving as official recruiter — [Open Positions](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
+- Android domain owner for **Avvy** — leading end-to-end feature development, codebase improvement, architecture, and performance optimization
+- Designing and implementing shared logic with **Kotlin Multiplatform** to unify behavior across Android/iOS
+- Driving code review standards, tech selection, and refactoring strategies to build a resilient codebase
+- Designing and operating AI-agent workflows using **Claude Code** — prompt/guideline authoring, internal rollout, and parallel development coordination
+- Strengthening automated testing with **Maestro, Fastbot, Arbigent, Mobile MCP**
+- KPI monitoring and post-release analysis using Redash to drive improvement cycles
+- Engaged in direct recruiting — candidate outreach, interviews, and selection pipeline — [Open Positions](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
 
 #### LY Corporation (LINEヤフー) — *Android Lead* (Apr 2022 ~ Oct 2025)
 
@@ -61,11 +64,14 @@ Androidアプリ開発を7年以上主軸に、iOSアプリ開発（2年）、�
 
 #### AnotherBall Pte. Ltd. — *Android Tech Lead (Android / iOS)*（2025年7月〜現在）
 
-- AvvyアプリのAndroid開発全般を担当し、既存コードベースの改善・品質向上を推進
-- UI/UX改善、アーキテクチャ整備、パフォーマンス最適化を中心に安定性と開発効率を向上
-- Kotlin Multiplatform環境での共通ロジック設計・実装を担当
-- コードレビュー、技術選定、リファクタリング方針の策定など開発基盤づくりを主導
-- 公式リクルーターとして採用活動にも従事 — [募集一覧](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
+- **Avvy** のAndroid領域オーナーとして、機能開発〜運用改善まで一気通貫で担当。既存コードベースの改善・品質向上を継続的に推進
+- UI/UX改善、アーキテクチャ整備、パフォーマンス最適化を主導し、安定性と開発効率を向上
+- **Kotlin Multiplatform** による共通ロジックを設計・実装し、Android/iOS間の挙動を統一
+- コードレビュー基準整備、技術選定、リファクタリング方針の策定など変更に強い開発基盤づくりを主導
+- **Claude Code** 等のAIエージェントを活用したワークフローを設計・運用（Skill整備・社内展開・並行開発推進）
+- **Maestro、Fastbot、Arbigent、Mobile MCP** 等の導入による自動テスト・品質担保を強化
+- Redash等を用いたKPI監視・リリース後の数値検証を推進し、施策評価と改善サイクルを回す
+- ダイレクトリクルーティングに参画し、採用活動（候補者アプローチ・面談・選考推進）に貢献 — [募集一覧](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
 
 #### LINEヤフー株式会社 — *Android Lead*（2022年4月〜2025年10月）
 
