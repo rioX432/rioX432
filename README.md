@@ -91,6 +91,7 @@
 |---------|-------------|------|
 | **[CivitDeck](https://github.com/rioX432/CivitDeck)** | CivitAI mobile browser for Android & iOS | KMP, Compose Multiplatform |
 | **[KMP-FaceLink](https://github.com/rioX432/KMP-FaceLink)** | Unified face tracking API — wraps MediaPipe (Android) & ARKit (iOS) into a single KMP interface | KMP, MediaPipe, ARKit |
+| **[ai-dev-templates](https://github.com/rioX432/ai-dev-templates)** | Claude Code plugin for AI-driven development — harness engineering, multi-agent review, autonomous issue resolution | Claude Code, Shell |
 
 ### 🚀 Side Projects (Private)
 
