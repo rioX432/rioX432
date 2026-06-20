@@ -90,16 +90,9 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[CivitDeck](https://github.com/rioX432/CivitDeck)** | CivitAI mobile browser for Android & iOS | KMP, Compose Multiplatform |
-| **[KMP-FaceLink](https://github.com/rioX432/KMP-FaceLink)** | Unified face tracking API — wraps MediaPipe (Android) & ARKit (iOS) into a single KMP interface | KMP, MediaPipe, ARKit |
+| **[game-playgrounds](https://github.com/rioX432/game-playgrounds)** | Multi-engine game lab — same mechanics in Three.js / Babylon.js / Bevy, comparing AI-agent buildability, feel & performance | Three.js, Babylon.js, Bevy |
+| **[live-translate](https://github.com/rioX432/live-translate)** | Real-time JA↔EN speech translation overlay for presentations — local-first, GPU-accelerated | Electron, Whisper, OPUS-MT |
 | **[ai-dev-templates](https://github.com/rioX432/ai-dev-templates)** | Claude Code plugin for AI-driven development — harness engineering, multi-agent review, autonomous issue resolution | Claude Code, Shell |
-
-### 🚀 Side Projects (Private)
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **kamibukuro** | Paper bag design tool — Create print-ready designs without Illustrator, with 2D editor + 3D real-time preview | Next.js, Konva, React Three Fiber, Zustand |
-| **Oyako Diary** | Digital exchange diary for parent & child communication | Flutter, Riverpod, Supabase |
-| **Family Connect** | App connecting grandparents in hospitals/care facilities with family | Expo (React Native), Supabase |
 
 ---
 
