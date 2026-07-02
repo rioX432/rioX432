@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+RIO;Android+Tech+Lead+%7C+KMP+Specialist;8%2B+Years+%7C+AI-Driven+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+RIO;Android+Tech+Lead+%7C+KMP+Architect;8%2B+Years+%7C+AI-Driven+Dev" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <strong>Android Tech Lead · KMP Architect · AI-Driven Mobile Dev, based in Tokyo</strong><br/>
-  At <b>AnotherBall</b> — Building <b><a href="https://avvy.live/en">Avvy</a></b>
+  At <b>AnotherBall</b> — Building <b><a href="https://avvy.live/en">Avvy</a></b><br/>
+  <sub>Designing AI-agent (Claude Code) dev workflows &amp; KMP shared architecture across Android / iOS</sub>
 </p>
 
 <p align="center">
@@ -48,6 +49,14 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / Agents</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maestro-7B61FF?style=flat-square&logo=maestro&logoColor=white" />
     </td>
   </tr>
   <tr>
