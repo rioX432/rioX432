@@ -115,7 +115,7 @@ Androidアプリ開発を8年以上主軸に、iOSアプリ開発（2年）、�
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Kotlin/Java (8年) · Swift (2年) · C++ (4年) · Dart (1年) |
+| **Languages** | Kotlin/Java (8年) · Swift (2年) · C++ (4年) · Dart (1年) · Rust (1年未満) |
 | **Frameworks** | Jetpack Compose (3年) · KMP (2年) · Spring Boot (1〜2年) · Flutter (1年) |
 | **Reactive** | Coroutine (3年) · Flow (1.5年) · RxJava (2年) |
 | **CI/CD** | Firebase · Screwdriver · Fastlane · Circle CI |
