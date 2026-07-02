@@ -57,13 +57,13 @@
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maestro-7B61FF?style=flat-square&logo=maestro&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maestro-7B61FF?style=flat-square&logo=maestro&logoColor=white" />
       <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
