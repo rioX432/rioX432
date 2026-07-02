@@ -55,6 +55,7 @@
     <td align="center"><b>AI / Agents</b></td>
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
       <img src="https://img.shields.io/badge/Maestro-7B61FF?style=flat-square&logo=maestro&logoColor=white" />
     </td>
