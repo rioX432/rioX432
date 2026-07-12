@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://app.notion.com/p/rio432/Android-1c047dd696d6806fa200f7db09a64166"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume" /></a>
-  <a href="./CAREER.md"><img src="https://img.shields.io/badge/Career-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Career" /></a>
+  <a href="https://app.notion.com/p/rio432/Android-1c047dd696d6806fa200f7db09a64166"><img src="https://img.shields.io/badge/Resume_(English)-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume in English" /></a>
+  <a href="./CAREER.md"><img src="https://img.shields.io/badge/Career_(EN%2FJA)-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Career details in English and Japanese" /></a>
   <a href="https://speakerdeck.com/rio432"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
   <a href="https://x.com/rioX432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
