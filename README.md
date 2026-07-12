@@ -1,118 +1,92 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+RIO;Android+Tech+Lead+%7C+KMP+Architect;8%2B+Years+%7C+AI-Driven+Dev" alt="Typing SVG" />
-</h1>
+<h1 align="center">Ryosuke Shimizu</h1>
 
 <p align="center">
-  <strong>Android Tech Lead · KMP Architect · AI-Driven Mobile Dev, based in Tokyo</strong><br/>
-  At <b>AnotherBall</b> — Building <b><a href="https://avvy.live/en">Avvy</a></b><br/>
-  <sub>Designing AI-agent (Claude Code) dev workflows &amp; KMP shared architecture across Android / iOS</sub>
+  <strong>Senior Mobile Engineer · Android Tech Lead · Kotlin Multiplatform</strong><br/>
+  Tokyo, Japan · Building <a href="https://avvy.live/en"><strong>Avvy</strong></a> at AnotherBall
 </p>
 
 <p align="center">
-  <a href="https://x.com/rioX432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://speakerdeck.com/rio432"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
-  <a href="https://github.com/rioX432/rioX432/blob/main/CAREER.md"><img src="https://img.shields.io/badge/Career_Detail-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rioX432&style=for-the-badge&color=6366F1" alt="Profile Views" />
+  <a href="./CAREER.md"><img src="https://img.shields.io/badge/Career-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Career" /></a>
+  <a href="https://speakerdeck.com/rio432"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
+  <a href="https://x.com/rioX432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
----
+## About
 
-### 📊 GitHub Stats
+I am a mobile engineer with 8+ years of experience, primarily in Android development, with hands-on experience in iOS, backend development, Kotlin Multiplatform, real-time systems, and technical leadership.
 
-<p align="center">
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api?username=rioX432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=rioX432&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-</p>
+Currently, I lead the Android domain for Avvy while contributing to iOS and shared KMP layers. I also design AI-agent development infrastructure for production Android engineering, including structured context, specialized subagents, automated verification, performance analysis, and safety guardrails.
 
----
+- Android architecture, feature delivery, quality, releases, and production operations
+- Kotlin Multiplatform and Compose Multiplatform adoption in existing products
+- Jetpack Compose migration and large-codebase modernization
+- Real-time, camera, audio, face-tracking, Unity, and BLE integrations
+- AI-assisted engineering with Claude Code, Codex, Gemini, and MCP
+- Japanese and English collaboration in product-development teams
 
-### 🛠 Tech Stack
+## Selected Projects
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI / Agents</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maestro-7B61FF?style=flat-square&logo=maestro&logoColor=white" />
-      <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
-      <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
-      <img src="https://img.shields.io/badge/Danger-FF3030?style=flat-square&logo=danger&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### [CivitDeck](https://github.com/rioX432/CivitDeck)
 
----
+A full-featured Kotlin Multiplatform application for Android, iOS, and Desktop that connects generative-AI model discovery with local generation workflows.
 
-### 💼 Career
+- Shared networking, persistence, domain logic, use cases, and approximately 49 ViewModels across three platforms
+- Native UIs with Jetpack Compose, SwiftUI, and Compose Desktop
+- ComfyUI and Stable Diffusion WebUI integration with REST and WebSocket workflows
+- On-device visual and text search using SigLIP-2, ONNX Runtime, and Core ML
+- Room KMP persistence, modular Clean Architecture, testing, CI, and release automation
 
-> **See [Career Detail](./CAREER.md) for more / 詳細は [Career Detail](./CAREER.md) を参照**
+### [agent-witness](https://github.com/rioX432/agent-witness)
 
-```
-2025 ~         AnotherBall        ── Android Tech Lead (Android / iOS) / Avvy
-2024 ~         MedicalNote (Side) ── Android / iOS (KMP)
-2022 ~ 2025    LY Corporation     ── Android Lead / Yahoo! Shopping
-2022 ~ 2024    ZAICO (Side)       ── Android
-2018 ~ 2022    TOPCON             ── Mobile Engineer / New App Development
+A Rust-based observability and audit tool for AI coding agents.
+
+- Records Claude Code sessions through hooks and preserves normalized and raw JSONL evidence
+- Provides TUI timelines, reports, delegation summaries, and MCP/skill usage inventories
+- Includes destructive-command flagging, token aggregation, and deterministic testing
+
+### [ai-dev-templates](https://github.com/rioX432/ai-dev-templates)
+
+Reusable workflows and guardrails for structured AI-agent-driven development.
+
+- Investigation, decomposition, implementation, verification, review, and PR workflows
+- Context-isolated subagents and multi-agent review
+- Automated build, lint, test, formatting, and safety gates
+
+### Additional Projects
+
+- [live-translate](https://github.com/rioX432/live-translate) — Local-first Japanese–English real-time speech translation overlay
+- [game-playgrounds](https://github.com/rioX432/game-playgrounds) — Multi-engine game-development experiments across Three.js, Babylon.js, and Bevy
+
+## Core Technologies
+
+**Mobile:** Kotlin, Java, Swift, Jetpack Compose, SwiftUI, Kotlin Multiplatform, Compose Multiplatform  
+**Architecture:** MVVM, Clean Architecture, multi-module systems, offline-first design  
+**Real-time & Media:** Firestore, WebSocket, Agora, camera/audio processing, MediaPipe, Unity, BLE  
+**Testing & Performance:** JUnit, Robolectric, Maestro, Arbigent, Perfetto, Macrobenchmark, Baseline Profiles  
+**AI Engineering:** Claude Code, Codex, Gemini, MCP, agent skills, subagents, hooks, review and safety gates  
+**Backend & Cloud:** Kotlin, Spring Boot, Firebase, REST APIs
+
+## Career Snapshot
+
+```text
+2025 – Present   AnotherBall       Android Tech Lead / Mobile Engineer — Avvy
+2024 – Present   MedicalNote       Android / iOS Engineer — Contract
+2022 – 2025      LY Corporation    Android Engineer / Feature Lead — Yahoo! Shopping
+2022 – 2024      Zaico             Android Engineer — Contract
+2018 – 2022      Topcon            Android Engineer / Project Lead
 ```
 
----
+See [CAREER.md](./CAREER.md) for detailed experience in English and Japanese.
 
-### 🔭 OSS Projects
+## GitHub Activity
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[CivitDeck](https://github.com/rioX432/CivitDeck)** | CivitAI mobile browser for Android & iOS | KMP, Compose Multiplatform |
-| **[game-playgrounds](https://github.com/rioX432/game-playgrounds)** | Multi-engine game lab — same mechanics in Three.js / Babylon.js / Bevy, comparing AI-agent buildability, feel & performance | Three.js, Babylon.js, Bevy |
-| **[live-translate](https://github.com/rioX432/live-translate)** | Real-time JA↔EN speech translation overlay for presentations — local-first, GPU-accelerated | Electron, Whisper, OPUS-MT |
-| **[ai-dev-templates](https://github.com/rioX432/ai-dev-templates)** | Claude Code plugin for AI-driven development — harness engineering, multi-agent review, autonomous issue resolution | Claude Code, Shell |
-
----
-
-### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api?username=rioX432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=rioX432&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake.svg" />
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake.svg" />
 </picture>
-

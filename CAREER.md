@@ -1,6 +1,6 @@
 # Career Detail
 
-> [English](#english) | [日本語](#日本語)
+[English](#english) | [日本語](#日本語)
 
 ---
 
@@ -8,55 +8,129 @@
 
 ### Summary
 
-8+ years of Android development, with iOS (2 years) and backend (Spring Boot, 1–2 years). Leading modern technology adoption — Jetpack Compose, Kotlin Multiplatform, multi-module architecture — in production apps, from design through release and post-launch improvement. Also driving code review practices, architectural improvements, and dev process optimization to boost team productivity. Currently at AnotherBall as Android Tech Lead, driving both engineering organization building and technical outreach through tech recruiting and Tech Blog operations. Recently expanding into Rust for systems-level and cross-platform development. 4 years of collaboration with international teams, capable of technical discussions and teamwork in English.
+Senior Mobile Engineer and Android Tech Lead with 8+ years of professional experience, primarily in Android development, with hands-on experience in iOS, Kotlin/Spring Boot backend development, Kotlin Multiplatform, Compose Multiplatform, real-time systems, and technical leadership.
 
-### Work Experience
+Currently leading the Android domain for Avvy at AnotherBall. I own Android architecture, feature delivery, quality, releases, performance, and production issue resolution while contributing directly to iOS and shared KMP layers. I also design AI-agent development infrastructure for production Android engineering, including structured context, specialized subagents, automated verification, performance analysis, human approval gates, and safety guardrails.
 
-#### AnotherBall Pte. Ltd. — *Android Tech Lead (Android / iOS)* (Jul 2025 ~ Present)
+I work in both Japanese and English. Source code, pull requests, and code reviews are written in English, while meetings, specifications, and day-to-day communication use both languages.
 
-- Android domain owner for **Avvy** — leading end-to-end feature development, codebase improvement, architecture, and performance optimization
-- Led the gift combo feature end-to-end — competitive research, prototyping, UX design, system architecture, and implementation
-- Developing core user-facing features: gifts, events, live streaming, gacha, and community
-- Cross-functional involvement — user inquiry handling, admin dashboard improvement, and operational issue resolution
-- Designing and implementing shared logic with **Kotlin Multiplatform** to unify behavior across Android/iOS
-- Driving Unity decoupling — building in-house libraries and **KMP-FaceLink**, a cross-platform face tracking library for Android/iOS (now under AnotherBall org)
-- Designing and implementing custom **WebSocket** infrastructure for real-time data (comments, gifts, combos, state sync)
-- Driving code review standards, tech selection, and refactoring strategies to build a resilient codebase
-- Designing and operating AI-agent workflows using **Claude Code** — prompt/guideline authoring, internal rollout, and parallel development coordination
-- Structuring Figma-to-AI-agent design handoff for accurate spec and constraint communication
-- Strengthening automated testing with **Maestro, Fastbot, Arbigent, Mobile MCP**
-- KPI monitoring and post-release analysis using Redash to drive improvement cycles
-- Engaged in direct recruiting — candidate outreach, interviews, and selection pipeline — [Open Positions](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
+### Professional Experience
 
-#### LY Corporation (LINEヤフー) — *Android Lead* (Apr 2022 ~ Oct 2025)
+#### AnotherBall Pte. Ltd. — Android Tech Lead / Mobile Engineer, Avvy
 
-- Led 3 major redesigns of **Yahoo! Shopping** app's top screen
-- Introduced Jetpack Compose, migrated MVP→MVVM, refactored to multi-module architecture
-- Built backend APIs with Spring Boot (1–2 years) and an internal iOS validation app with SwiftUI (2 years)
-- Participated in Architecture & Android working groups
+**Jul 2025 – Present · Tokyo, Japan**
 
-#### TOPCON Corporation — *Mobile Engineer* (Apr 2018 ~ Mar 2022)
+Avvy is a global avatar-based live-streaming and social entertainment platform with more than 100,000 downloads.
 
-- Built a surveying controller Android app from scratch (requirements → release)
-- 4 years of collaboration with Russian dev team, including 3-month on-site visit
-- Led a team of 9 (dev + QA) as project leader
+- Lead Android development across a production codebase of approximately 40 modules, 1,300 Kotlin files, and 160,000 lines of Kotlin, with a biweekly release cadence.
+- Own Android feature delivery, architecture, codebase modernization, quality, performance, release operations, and production issue resolution.
+- Contribute directly to iOS development and design shared UseCase and Repository layers with Kotlin Multiplatform.
+- Develop core experiences across live streaming, gifts, gift combos, events, gacha, avatar customization, and community features.
+- Led the gift-combo feature from competitive research and UX design through architecture, implementation, release, and KPI dashboard development. The feature achieved sustained adoption and materially increased daily gift volume.
+- Designed reliability mechanisms for high-frequency gift interactions, including optimistic UI, coin-balance reconciliation, unsent-state recovery, duplicate-send prevention, offline guards, animation queues, and Firestore-based synchronization.
+- Work on RTC, camera and audio processing, face tracking, Unity integration, and real-time state synchronization.
+- Evaluate WebSocket and WebRTC-based architecture options for future product-specific synchronization needs.
+- Support engineering hiring through candidate sourcing, outreach, casual interviews, and selection coordination.
 
-### Side Projects (Contract)
+##### AI-Agent Development Infrastructure
 
-#### MedicalNote Inc. (Apr 2024 ~ Present)
-- Solo developer for healthcare mobile apps (Android / iOS), introduced KMP
+- Designed and maintain an AI-agent development harness covering investigation, ambiguity resolution, decomposition, implementation, verification, review, and pull-request preparation.
+- Established centralized architecture guidance, engineering rules, testing documentation, and a maintained production bug-pattern catalog for Claude Code, Codex, Gemini, and other agents.
+- Built specialized investigator, build, Android-review, and performance-review agents, with cross-model checks and explicit human approval gates.
+- Integrated Gradle tests, Detekt, Android Studio inspections, Compose Preview rendering, emulator journeys, screenshot comparison, Maestro flows, and evidence-based acceptance-criteria verification.
+- Built agent-operable performance workflows using Perfetto, Macrobenchmark, Baseline Profiles, gfxinfo, meminfo, and trace SQL analysis.
+- Added safeguards for destructive commands, secret access, generated code, repeated failures, and scenarios that require manual QA.
 
-#### ZAICO Inc. (Aug 2022 ~ Feb 2024)
-- Android development for inventory management app
+**Primary technologies:** Kotlin, Jetpack Compose, Swift, SwiftUI, Kotlin Multiplatform, Coroutines, Flow, Cloud Firestore, Firebase, Agora, MediaPipe, Unity, Maestro, Arbigent, Perfetto, Claude Code, Codex, Gemini
+
+#### LY Corporation — Android Engineer / Feature Lead, Yahoo! Shopping
+
+**Apr 2022 – Oct 2025 · Tokyo, Japan**
+
+- Led three major redesigns of the Yahoo! Shopping Android top screen.
+- Owned requirements alignment, technical design, implementation, testing, release, maintenance, and production issue resolution for the Android workstream.
+- Introduced Jetpack Compose incrementally by replacing RecyclerView ViewHolders before migrating the full Fragment and screen structure.
+- Migrated the top-screen architecture from MVP to MVVM and consolidated shared behavior used across multiple components.
+- Contributed to multi-module architecture and engineering working groups.
+- Developed Kotlin/Spring Boot proxy APIs between mobile clients and the Yahoo! Shopping backend.
+- Built an internal iOS validation application from scratch with SwiftUI.
+
+**Primary technologies:** Kotlin, Java, Jetpack Compose, Android Views, RecyclerView, ViewModel, Coroutines, Flow, Spring Boot, SwiftUI, CircleCI
+
+#### Topcon Corporation — Android Engineer / Project Lead
+
+**Apr 2018 – Mar 2022 · Tokyo, Japan**
+
+- Built an Android field application used by civil-engineering surveyors to communicate with total stations and record surveying results through Bluetooth Low Energy.
+- Designed offline-first workflows for fully offline field operation, with administrative work performed online later from the office.
+- Led a nine-person delivery team consisting of six contract engineers, two QA engineers, and myself.
+- Managed implementation, task allocation, schedules, technical decisions, specification alignment with the product manager, and QA execution.
+- Collaborated with a Russian engineering team for four years, including a three-month on-site assignment.
+- Helped transfer technical knowledge and development ownership from the outsourced Russian team to Japan, establishing the foundation for Japan-led in-house development.
+
+**Primary technologies:** Kotlin, Java, Android SDK, Bluetooth Low Energy, Room, SQLite, C++, offline-first architecture, hardware integration
+
+### Concurrent Contract Experience
+
+#### MedicalNote Inc. — Android / iOS Engineer
+
+**Apr 2024 – Present · Remote**
+
+- Work as the sole mobile engineer for the MedicalNote consumer application across Android and iOS.
+- Own delivery from specification review and technical design through implementation, testing, release preparation, and maintenance.
+- Designed an incremental migration from existing native applications to Compose Multiplatform while preserving legacy screens.
+- Built shared login, onboarding, and post-login top-screen experiences.
+- Implemented a shared WebView layer and customized unsupported behavior such as Basic Authentication handling.
+- Advanced the migration to a production-ready stage; the rollout was later discontinued for business reasons unrelated to technical feasibility.
+
+#### Zaico Inc. — Android Engineer
+
+**Aug 2022 – Feb 2024 · Remote**
+
+- Developed inventory registration using barcode and QR-code scanning with CameraX.
+- Developed inventory quantity-management features and contributed to an application-wide UI redesign.
+- Owned assigned features from requirements clarification through testing and release.
+- Incrementally replaced legacy state-management code with ViewModel-based implementations.
+
+### Selected Open-Source Projects
+
+#### [CivitDeck](https://github.com/rioX432/CivitDeck)
+
+A full-featured Kotlin Multiplatform application for Android, iOS, and Desktop.
+
+- Shares networking, persistence, domain logic, use cases, and approximately 49 ViewModels across three platforms.
+- Uses Jetpack Compose, SwiftUI, and Compose Desktop for platform-native UIs.
+- Integrates CivitAI, Hugging Face, TensorArt, ComfyUI, Stable Diffusion WebUI, and custom image servers.
+- Includes REST/WebSocket generation workflows, on-device SigLIP-2 search, Room KMP persistence, modular Clean Architecture, testing, CI, and automated releases.
+
+#### [agent-witness](https://github.com/rioX432/agent-witness)
+
+A Rust-based observability and audit tool for AI coding agents.
+
+- Records Claude Code sessions using hooks and preserves normalized and raw JSONL evidence.
+- Provides TUI timelines, Markdown/JSON reports, delegation summaries, and MCP/skill usage inventories.
+- Includes destructive-command flagging, token aggregation, deterministic core logic, and golden TUI tests.
+
+#### [ai-dev-templates](https://github.com/rioX432/ai-dev-templates)
+
+Reusable workflows and guardrails for reliable AI-agent-driven development.
 
 ### Education
 
-- **Doshisha University** — M.S. in Mathematical Sciences and Environment (2016–2018)
-- **Doshisha University** — B.S. in Environmental Systems (2012–2016)
+- **Doshisha University Graduate School of Science and Engineering** — M.S., Mathematical Sciences and Environment, 2016–2018
+- **Doshisha University, Faculty of Science and Engineering** — B.S., Environmental Systems, 2012–2016
+
+### Languages
+
+- Japanese: Native
+- English: Professional working proficiency
 
 ### Links
 
-- Talks — [SpeakerDeck](https://speakerdeck.com/rio432)
+- [GitHub](https://github.com/rioX432)
+- [SpeakerDeck](https://speakerdeck.com/rio432)
+- [Avvy](https://avvy.live/)
+- [AnotherBall Tech Blog](https://tech.anotherball.com/)
 
 ---
 
@@ -64,66 +138,99 @@
 
 ### 職務要約
 
-Androidアプリ開発を8年以上主軸に、iOSアプリ開発（2年）、バックエンド開発（Spring Boot・1〜2年）を含むモバイル中心の開発に従事。Android領域では、Jetpack Compose、Kotlin Multiplatform、マルチモジュール構成などのモダン技術を実プロダクトへ導入し、設計・実装・リリース・運用まで一貫してリード。技術選定・アーキテクチャ改善・既存コードベースのモダナイズに加え、コードレビュー体制の整備や開発プロセス改善を通じてチーム全体の生産性と品質向上に貢献。現在はAnotherBallにてAndroid Tech Leadとして開発を担当しつつ、技術採用やTech Blog運営を通じてエンジニア組織づくりと技術発信を推進。近年はRustによるシステム/クロスプラットフォーム開発にも取り組む。海外エンジニアとの共同開発経験も約4年あり、英語での技術的な議論・協働にも対応可能。
+Androidを中心に8年以上の実務経験を持つ、Senior Mobile Engineer / Android Tech Leadです。iOS、Kotlin/Spring Bootによるバックエンド、Kotlin Multiplatform、Compose Multiplatform、リアルタイムシステム、技術リードの経験があります。
+
+現在はAnotherBallでAvvyのAndroid領域を担当し、アーキテクチャ、機能開発、品質、リリース、パフォーマンス、障害対応までを主導しています。iOS実装やKMP共通層にも直接貢献しています。
+
+また、本番Android開発向けのAIエージェント基盤を設計・運用しています。共通コンテキスト、専門サブエージェント、自動検証、パフォーマンス解析、人間の承認ゲート、安全ガードレールまで含む開発ハーネスを整備しています。
 
 ### 職務経歴
 
-#### AnotherBall Pte. Ltd. — *Android Tech Lead (Android / iOS)*（2025年7月〜現在）
+#### AnotherBall Pte. Ltd. — Android Tech Lead / Mobile Engineer, Avvy
 
-- **Avvy** のAndroid領域オーナーとして、機能開発〜運用改善まで一気通貫で担当。既存コードベースの改善・品質向上を継続的に推進
-- ギフトコンボ機能を主導 — 他社調査・プロトタイプ作成・体験設計・システム構成検討・実装を一貫して推進
-- ギフト、イベント、配信体験、ガチャ、コミュニティ機能など主要ユーザー体験のAndroid開発を担当
-- 職能を限定しない関与 — ユーザー問い合わせ対応、サーバー管理画面改善、運用課題の把握・解消
-- UI/UX改善、アーキテクチャ整備、パフォーマンス最適化を主導し、安定性と開発効率を向上
-- **Kotlin Multiplatform** による共通ロジックを設計・実装し、Android/iOS間の挙動を統一
-- Unity依存脱却を推進 — 内製ライブラリ開発、Android/iOS共通フェイストラッキングライブラリ **KMP-FaceLink** の設計・開発（現在はAnotherBall org配下に移管）
-- 自社 **WebSocket** 基盤の設計・実装（コメント、ギフト、コンボ、状態同期などリアルタイムデータ基盤）
-- コードレビュー基準整備、技術選定、リファクタリング方針の策定など変更に強い開発基盤づくりを主導
-- **Claude Code** 等のAIエージェントを活用したワークフローを設計・運用（Skill整備・社内展開・並行開発推進）
-- Figma→AIエージェントへのデザイン情報・仕様・制約の伝達整備
-- **Maestro、Fastbot、Arbigent、Mobile MCP** 等の導入による自動テスト・品質担保を強化
-- Redash等を用いたKPI監視・リリース後の数値検証を推進し、施策評価と改善サイクルを回す
-- ダイレクトリクルーティングに参画し、採用活動（候補者アプローチ・面談・選考推進）に貢献 — [募集一覧](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
+**2025年7月 – 現在 · 東京**
 
-#### LINEヤフー株式会社 — *Android Lead*（2022年4月〜2025年10月）
+- 約40モジュール、Kotlin約1,300ファイル・16万行規模のAndroidコードベースを、隔週リリースで担当。
+- Androidの機能開発、アーキテクチャ、モダナイズ、品質、パフォーマンス、リリース、障害対応を主導。
+- iOS開発にも直接参加し、Kotlin MultiplatformでUseCase・Repository層を共通化。
+- 配信、ギフト、コンボ、イベント、ガチャ、アバター、コミュニティ機能を開発。
+- ギフトコンボ機能を競合調査、UX設計、技術設計、実装、リリース、KPIダッシュボード作成まで一貫して主導。継続利用され、日次ギフト量を大きく向上。
+- 楽観的UI、コイン残高整合、未送信状態復旧、二重送信防止、オフライン制御、アニメーションキュー、Firestore同期などを設計。
+- RTC、カメラ・音声処理、フェイストラッキング、Unity連携、リアルタイム状態同期を担当。
+- 採用候補者の探索、スカウト、カジュアル面談、選考調整にも参加。
 
-- ヤフーショッピングAndroidアプリTOP画面のリニューアルを3回にわたり担当
-- Jetpack Compose導入、MVP→MVVMへのアーキテクチャ変更、マルチモジュール構成へのリファクタリングを推進
-- Spring Bootを活用したAPI開発（1〜2年）、社内検証用iOSアプリをSwiftUIで単独開発（2年）
-- アーキテクチャワーキンググループ・Androidワーキンググループに参加
+##### AIエージェント開発基盤
 
-#### 株式会社トプコン — *Mobile Engineer*（2018年4月〜2022年3月）
+- 調査、曖昧性解消、分解、実装、検証、レビュー、PR作成までを統合した開発ハーネスを設計・運用。
+- Claude Code、Codex、Gemini等に共通で参照されるアーキテクチャ、規約、テスト資料、バグパターン集を整備。
+- 調査、ビルド、Androidレビュー、性能レビューの専門サブエージェントと、別モデルによるクロスチェックを導入。
+- Gradleテスト、Detekt、Android Studio Inspection、Compose Preview、エミュレーター操作、スクリーンショット比較、Maestro、AC証跡確認を統合。
+- Perfetto、Macrobenchmark、Baseline Profile、gfxinfo、meminfo、SQL解析によるエージェント実行可能な性能計測チェーンを整備。
+- 破壊的コマンド、シークレット参照、自動生成コード、連続失敗、手動QA境界に対するガードレールを導入。
 
-- 測量機器向けコントローラー新規Androidアプリの立ち上げから開発（要件定義〜リリース）を担当
-- ロシア開発チームとの4年間の共同開発。3ヶ月の現地出張も経験
-- 開発チーム・QAチーム計9名のリーダーとしてプロジェクトを推進
+#### LY Corporation — Android Engineer / Feature Lead, Yahoo!ショッピング
 
-### 副業・業務委託
+**2022年4月 – 2025年10月 · 東京**
 
-#### 株式会社メディカルノート（2024年4月〜現在）
-- 医療従事者・患者向けモバイルアプリ開発・保守（Android / iOS）を単独で担当。KMPを提案・導入
+- Yahoo!ショッピングAndroidアプリのTOP画面刷新を3回担当。
+- PdMとの要件調整、技術設計、実装、テスト、リリース、保守までを担当。
+- RecyclerViewのViewHolder単位からJetpack Composeへ段階移行し、最終的にFragment・画面全体をCompose化。
+- MVPからMVVMへ移行し、複数コンポーネントから利用される共通処理を整理。
+- マルチモジュール化、アーキテクチャ・Androidワーキンググループに参加。
+- Kotlin/Spring BootでモバイルクライアントとショッピングBE間のプロキシAPIを開発。
+- SwiftUIで社内Web表示検証用iOSアプリをフルスクラッチ開発。
 
-#### 株式会社ZAICO（2022年8月〜2024年2月）
-- 在庫管理Androidアプリの開発（UI刷新、不具合修正、QRコード処理の実装）
+#### Topcon Corporation — Android Engineer / Project Lead
+
+**2018年4月 – 2022年3月 · 東京**
+
+- 土木測量で使用するトータルステーションとBLE通信し、測量結果を記録するAndroidアプリを新規開発。
+- 現場では完全オフライン、事務所でオンライン作業を行うオフラインファースト設計。
+- 業務委託エンジニア6名、QA2名、自身を含む9名チームをリード。
+- 実装、タスク管理、スケジュール調整、技術選定、PdMとの仕様調整、QA管理を担当。
+- ロシア開発チームと4年間協働し、3か月の現地出張を経験。
+- ロシア側から技術スタックと開発手法を獲得し、日本主導の内製開発へ移行するための基盤を構築。
+
+### 業務委託
+
+#### MedicalNote Inc. — Android / iOS Engineer
+
+**2024年4月 – 現在 · リモート**
+
+- MedicalNoteアプリのAndroid/iOSを単独で担当し、仕様受領から開発、テスト、リリース準備、保守まで実施。
+- 既存ネイティブ画面を維持しながら、Compose Multiplatformへ段階移行する構成を設計。
+- ログイン、オンボーディング、ログイン後TOP画面を共通化。
+- CMP WebViewを導入し、Basic認証などライブラリ未対応部分をカスタム実装。
+- 本番導入可能な段階まで進めた後、技術的理由ではなく会社都合で展開中止。
+
+#### Zaico Inc. — Android Engineer
+
+**2022年8月 – 2024年2月 · リモート**
+
+- CameraXによるバーコード・QRコード読み取りを利用した在庫登録機能を開発。
+- 在庫数量管理、アプリ全体のUI刷新を担当。
+- 要件確認からテスト・リリースまでを担当。
+- 既存状態管理をViewModelベースへ段階的に置き換え。
+
+### 主なOSS
+
+- **[CivitDeck](https://github.com/rioX432/CivitDeck)** — Android / iOS / Desktop対応のKotlin Multiplatformアプリ。共有ViewModel、ComfyUI連携、オンデバイスML検索、Room KMP、CIを実装。
+- **[agent-witness](https://github.com/rioX432/agent-witness)** — AIコーディングエージェントのセッション記録・監査・可観測性を提供するRust製CLI/TUI。
+- **[ai-dev-templates](https://github.com/rioX432/ai-dev-templates)** — AIエージェント開発向けの再利用可能なワークフローと安全ガードレール。
 
 ### 学歴
 
-- **同志社大学院** 理工学研究科 数理環境科学専攻（2016年4月〜2018年3月）
-- **同志社大学** 理工学部 環境システム学科（2012年4月〜2016年3月）
+- **同志社大学大学院 理工学研究科** 数理環境科学専攻 修士課程（2016–2018）
+- **同志社大学 理工学部** 環境システム学科（2012–2016）
 
-### スキル
+### 言語
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | Kotlin/Java (8年) · Swift (2年) · C++ (4年) · Dart (1年) · Rust (1年未満) |
-| **Frameworks** | Jetpack Compose (3年) · KMP (2年) · Spring Boot (1〜2年) · Flutter (1年) |
-| **Reactive** | Coroutine (3年) · Flow (1.5年) · RxJava (2年) |
-| **CI/CD** | Firebase · Screwdriver · Fastlane · Circle CI |
-| **DB** | Room (8年) · SQLite (6年) · Realm (1年) |
-| **Tools** | Git · JIRA · Backlog · BitBucket · Confluence · Figma |
-| **Language** | English (Conversational) |
+- 日本語: ネイティブ
+- 英語: ビジネス実務レベル
 
 ### リンク
 
-- 登壇資料 — [SpeakerDeck](https://speakerdeck.com/rio432)
-- 個人開発: [将棋アプリ](https://github.com/rioX432/shogi_template) / [英単語アプリ](https://github.com/rioX432/eitanren_portfolio) / [簡易業務アプリ](https://github.com/rioX432/flutter_sample_app)
+- [GitHub](https://github.com/rioX432)
+- [SpeakerDeck](https://speakerdeck.com/rio432)
+- [Avvy](https://avvy.live/)
+- [AnotherBall Tech Blog](https://tech.anotherball.com/)
