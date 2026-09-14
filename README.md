@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior Mobile Engineer · Android Tech Lead · Kotlin Multiplatform</strong><br/>
-  Tokyo, Japan · DroidKaigi 2026 Speaker · Building <a href="https://avvy.live/en"><strong>Avvy</strong></a> at AnotherBall
+  Tokyo, Japan · DroidKaigi 2026 & iOSDC Japan 2026 Speaker · Building <a href="https://avvy.live/en"><strong>Avvy</strong></a> at AnotherBall
 </p>
 
 <p align="center">
@@ -36,6 +36,16 @@ A production-driven talk on improving face-tracking accuracy beyond the raw outp
 **Topics:** Android · Kotlin Multiplatform · MediaPipe · ARKit · Face Tracking
 
 [Session](https://2026.droidkaigi.jp/timetable/1236039/) · [Slides](https://speakerdeck.com/rio432/overcoming-accuracy-limits-of-mediapipe-face-landmarker) · [Video](https://www.youtube.com/watch?v=S79Mc9332bU)
+
+### iOSDC Japan 2026 — Rookies LT
+
+**Why is “puffing out your cheeks” detected so accurately? / 「ほっぺを膨らませる」が高精度なのはなぜ？**
+
+A five-minute lightning talk on why facial-expression tracking can behave differently across iOS and Android, using production avatar-tracking work from Avvy as the practical context.
+
+**Topics:** iOS · Android · Apple Vision / ARKit · MediaPipe · Face Tracking · Cross-platform
+
+[iOSDC Japan 2026](https://iosdc.jp/2026/) · [Speaker Deck](https://speakerdeck.com/rio432)
 
 ## Selected Projects
 
