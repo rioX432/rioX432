@@ -1,39 +1,96 @@
 <h1 align="center">Ryosuke Shimizu</h1>
 
 <p align="center">
-  <strong>Senior Mobile Engineer · Android Tech Lead · Kotlin Multiplatform</strong><br/>
-  Tokyo, Japan · DroidKaigi 2026 & iOSDC Japan 2026 Speaker · Building <a href="https://avvy.live/en"><strong>Avvy</strong></a> at AnotherBall
+  <strong>Mobile Engineering · AI Agents · Realtime Systems</strong><br/>
+  Android Tech Lead at <a href="https://avvy.live/en"><strong>AnotherBall</strong></a> · Tokyo, Japan
 </p>
 
 <p align="center">
-  <a href="https://app.notion.com/p/rio432/Android-1c047dd696d6806fa200f7db09a64166"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Resume" /></a>
-  <a href="./CAREER.md"><img src="https://img.shields.io/badge/Career-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Career" /></a>
-  <a href="https://speakerdeck.com/rio432"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
-  <a href="https://x.com/rioX432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  I build mobile products and engineering systems where humans and AI agents work together.
 </p>
 
-## About
+<p align="center">
+  <a href="https://app.notion.com/p/rio432/Android-1c047dd696d6806fa200f7db09a64166">Resume</a>
+  · <a href="https://speakerdeck.com/rio432">Talks</a>
+  · <a href="./CAREER.md">Career</a>
+  · <a href="https://x.com/rioX432">X</a>
+</p>
 
-I am a mobile engineer with 8+ years of experience, primarily in Android development, with hands-on experience in iOS, backend development, Kotlin Multiplatform, real-time systems, and technical leadership.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-systems-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-systems-light.svg">
+  <img alt="Mobile, AI agents, and realtime systems converging into one engineering workflow" src="./assets/profile-systems-dark.svg" width="100%">
+</picture>
 
-Currently, I lead the Android domain for Avvy while contributing to iOS and shared KMP layers. I also design AI-agent development infrastructure for production Android engineering, including structured context, specialized subagents, automated verification, performance analysis, and safety guardrails.
+## Now
 
-- Android architecture, feature delivery, quality, releases, and production operations
-- Kotlin Multiplatform and Compose Multiplatform adoption in existing products
-- Jetpack Compose migration and large-codebase modernization
-- Real-time, camera, audio, face-tracking, Unity, and BLE integrations
-- AI-assisted engineering with Claude Code, Codex, Gemini, and MCP
-- Japanese and English collaboration in product-development teams
+### Building Avvy
 
-## Speaking
+Leading Android development while working across Kotlin Multiplatform, realtime media, face tracking, and cross-platform product engineering.
+
+### Building with AI agents
+
+Designing development environments where agents can investigate, plan, implement, review, and verify software across multiple projects — not just generate code.
+
+### Exploring realtime & graphics systems
+
+Experimenting with GPU UI, realtime rendering, interactive character systems, and ways to make advanced visual experiences easier to build across platforms.
+
+## Selected Work
+
+### [agent-witness](https://github.com/rioX432/agent-witness)
+
+**Observability and auditing for AI coding agents.**
+
+A Rust tool that records agent sessions and makes delegation, tool usage, token usage, and potentially destructive operations inspectable.
+
+`Rust` · `Claude Code` · `MCP` · `Agent Observability`
+
+### [CivitDeck](https://github.com/rioX432/CivitDeck)
+
+**A native workspace for discovering and running generative AI models.**
+
+A Kotlin Multiplatform application spanning Android, iOS, and Desktop, integrating Civitai, ComfyUI, local generation workflows, and on-device search.
+
+`Kotlin Multiplatform` · `Compose` · `SwiftUI` · `ONNX` · `Core ML`
+
+### [ai-dev-templates](https://github.com/rioX432/ai-dev-templates)
+
+**Structured workflows and guardrails for agent-driven software development.**
+
+Reusable patterns for investigation, decomposition, implementation, verification, review, and PR workflows with context-isolated agents and automated quality gates.
+
+`AI Agents` · `Automation` · `Verification`
+
+## Current R&D
+
+A large part of my recent experimental work happens in private repositories.
+
+### Agentic Engineering
+
+I'm building a development environment where a single request can be turned into an execution plan, delegated across specialized coding agents, independently reviewed, verified, and applied across multiple local projects.
+
+My focus is not just code generation, but the surrounding system: **context, memory, orchestration, review, observability, and verification**.
+
+### Interactive & GPU Systems
+
+I'm researching cross-platform approaches to advanced UI and motion: shared visual contracts, native GPU rendering, generated motion components, and automated visual evaluation across Android, Apple platforms, Web, and other runtimes.
+
+The goal is to preserve native-level visual quality while making complex interactive systems more reusable and easier to develop with AI agents.
+
+### Realtime Characters
+
+I'm exploring realtime character experiences that combine face tracking, realtime communication, rendering, game-engine integration, and interactive effects.
+
+This extends my production work with **MediaPipe, ARKit, RTC, Unity, Kotlin Multiplatform, and avatar systems**.
+
+## Talks
 
 ### DroidKaigi 2026
 
-**Overcoming accuracy limits of MediaPipe Face Landmarker**
+**[Overcoming accuracy limits of MediaPipe Face Landmarker](https://speakerdeck.com/rio432/overcoming-accuracy-limits-of-mediapipe-face-landmarker)**
 
-A production-driven talk on improving face-tracking accuracy beyond the raw output of MediaPipe Face Landmarker, based on experience building cross-platform tracking systems with Kotlin Multiplatform, MediaPipe, and ARKit.
-
-**Topics:** Android · Kotlin Multiplatform · MediaPipe · ARKit · Face Tracking
+A production-driven talk about improving face-tracking accuracy beyond the raw output of MediaPipe Face Landmarker.
 
 [Session](https://2026.droidkaigi.jp/timetable/1236039/) · [Slides](https://speakerdeck.com/rio432/overcoming-accuracy-limits-of-mediapipe-face-landmarker) · [Video](https://www.youtube.com/watch?v=S79Mc9332bU)
 
@@ -41,75 +98,26 @@ A production-driven talk on improving face-tracking accuracy beyond the raw outp
 
 **Why is “puffing out your cheeks” detected so accurately? / 「ほっぺを膨らませる」が高精度なのはなぜ？**
 
-A five-minute lightning talk on why facial-expression tracking can behave differently across iOS and Android, using production avatar-tracking work from Avvy as the practical context.
-
-**Topics:** iOS · Android · Apple Vision / ARKit · MediaPipe · Face Tracking · Cross-platform
+A five-minute lightning talk about why facial-expression tracking can behave differently across iOS and Android.
 
 [iOSDC Japan 2026](https://iosdc.jp/2026/) · [Speaker Deck](https://speakerdeck.com/rio432)
 
-## Selected Projects
+## Engineering
 
-### [CivitDeck](https://github.com/rioX432/CivitDeck)
+**Mobile**  
+Kotlin · Swift · Android · iOS · Jetpack Compose · SwiftUI · Kotlin Multiplatform
 
-A full-featured Kotlin Multiplatform application for Android, iOS, and Desktop that connects generative-AI model discovery with local generation workflows.
+**AI Engineering**  
+Claude Code · Codex · MCP · Agent orchestration · Subagents · Evaluation · Verification
 
-- Shared networking, persistence, domain logic, use cases, and approximately 49 ViewModels across three platforms
-- Native UIs with Jetpack Compose, SwiftUI, and Compose Desktop
-- ComfyUI and Stable Diffusion WebUI integration with REST and WebSocket workflows
-- On-device visual and text search using SigLIP-2, ONNX Runtime, and Core ML
-- Room KMP persistence, modular Clean Architecture, testing, CI, and release automation
+**Realtime & Graphics**  
+MediaPipe · ARKit · RTC · Camera / Audio · Unity · GPU rendering
 
-### [agent-witness](https://github.com/rioX432/agent-witness)
+**Backend & Cloud**  
+Kotlin · Spring Boot · Firebase · REST APIs
 
-A Rust-based observability and audit tool for AI coding agents.
+## Background
 
-- Records Claude Code sessions through hooks and preserves normalized and raw JSONL evidence
-- Provides TUI timelines, reports, delegation summaries, and MCP/skill usage inventories
-- Includes destructive-command flagging, token aggregation, and deterministic testing
+8+ years building mobile products across **Topcon → LY Corporation → AnotherBall**, with additional hands-on experience in iOS, backend systems, and technical leadership.
 
-### [ai-dev-templates](https://github.com/rioX432/ai-dev-templates)
-
-Reusable workflows and guardrails for structured AI-agent-driven development.
-
-- Investigation, decomposition, implementation, verification, review, and PR workflows
-- Context-isolated subagents and multi-agent review
-- Automated build, lint, test, formatting, and safety gates
-
-### Additional Projects
-
-- [live-translate](https://github.com/rioX432/live-translate) — Local-first Japanese–English real-time speech translation overlay
-- [game-playgrounds](https://github.com/rioX432/game-playgrounds) — Multi-engine game-development experiments across Three.js, Babylon.js, and Bevy
-
-## Core Technologies
-
-**Mobile:** Kotlin, Java, Swift, Jetpack Compose, SwiftUI, Kotlin Multiplatform, Compose Multiplatform  
-**Architecture:** MVVM, Clean Architecture, multi-module systems, offline-first design  
-**Real-time & Media:** Firestore, WebSocket, Agora, camera/audio processing, MediaPipe, Unity, BLE  
-**Testing & Performance:** JUnit, Robolectric, Maestro, Arbigent, Perfetto, Macrobenchmark, Baseline Profiles  
-**AI Engineering:** Claude Code, Codex, Gemini, MCP, agent skills, subagents, hooks, review and safety gates  
-**Backend & Cloud:** Kotlin, Spring Boot, Firebase, REST APIs
-
-## Career Snapshot
-
-```text
-2025 – Present   AnotherBall       Android Tech Lead / Mobile Engineer — Avvy
-2024 – Present   MedicalNote       Android / iOS Engineer — Contract
-2022 – 2025      LY Corporation    Android Engineer / Feature Lead — Yahoo! Shopping
-2022 – 2024      Zaico             Android Engineer — Contract
-2018 – 2022      Topcon            Android Engineer / Project Lead
-```
-
-See [CAREER.md](./CAREER.md) for detailed experience in English and Japanese.
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api?username=rioX432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=rioX432&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top languages" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake.svg" />
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake.svg" />
-</picture>
+See [CAREER.md](./CAREER.md) for the full career history.
