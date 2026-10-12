@@ -64,7 +64,7 @@ Reusable patterns for investigation, decomposition, implementation, verification
 
 ## Current R&D
 
-These are ongoing research and prototyping areas; public code and demos are not yet available for every project.
+These are ongoing research and prototyping areas; some work is not publicly available.
 
 ### Agentic Engineering
 
