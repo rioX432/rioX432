@@ -1,12 +1,12 @@
 <h1 align="center">Ryosuke Shimizu</h1>
 
 <p align="center">
-  <strong>Mobile Engineering · AI Agents · Realtime Systems</strong><br/>
+  <strong>Mobile &amp; Product Engineering · AI Agents · Realtime 3D</strong><br/>
   Android Tech Lead at <a href="https://avvy.live/en"><strong>AnotherBall</strong></a> · Tokyo, Japan
 </p>
 
 <p align="center">
-  I build mobile products and engineering systems where humans and AI agents work together.
+  I work across product design, technical planning, and implementation, with a foundation in mobile engineering.
 </p>
 
 <p align="center">
@@ -26,15 +26,15 @@
 
 ### Building Avvy
 
-Leading Android development while working across Kotlin Multiplatform, realtime media, face tracking, and cross-platform product engineering.
+Leading Android development and working across mobile, product design, and backend systems. My work includes shaping product requirements, evaluating technologies, planning implementation, and testing ideas through proof-of-concept work.
 
 ### Building with AI agents
 
-Designing development environments where agents can investigate, plan, implement, review, and verify software across multiple projects — not just generate code.
+Developing repeatable workflows for investigation, planning, implementation, review, and verification across multiple projects. I'm also exploring how AI-assisted workflows can support visual content creation.
 
-### Exploring realtime & graphics systems
+### Exploring realtime 3D & creation tools
 
-Experimenting with GPU UI, realtime rendering, interactive character systems, and ways to make advanced visual experiences easier to build across platforms.
+Researching avatar experiences, cross-platform rendering, and asset-production workflows that connect creative tools with interactive applications.
 
 ## Selected Work
 
@@ -64,25 +64,21 @@ Reusable patterns for investigation, decomposition, implementation, verification
 
 ## Current R&D
 
-A large part of my recent experimental work happens in private repositories.
+These are ongoing research and prototyping areas; some work is not publicly available.
 
 ### Agentic Engineering
 
-I'm building a development environment where a single request can be turned into an execution plan, delegated across specialized coding agents, independently reviewed, verified, and applied across multiple local projects.
+I'm building development environments around **context, memory, orchestration, review, observability, and verification**, so that work delegated to AI agents can be inspected and repeated.
 
-My focus is not just code generation, but the surrounding system: **context, memory, orchestration, review, observability, and verification**.
+### Cross-platform Visual Systems
 
-### Interactive & GPU Systems
+I'm researching native GPU rendering, shared visual contracts, and automated visual evaluation across Android, Apple platforms, and Web. Current experiments include VRM avatar rendering and interactive character experiences.
 
-I'm researching cross-platform approaches to advanced UI and motion: shared visual contracts, native GPU rendering, generated motion components, and automated visual evaluation across Android, Apple platforms, Web, and other runtimes.
+This builds on my work with **MediaPipe, ARKit, RTC, Unity, Kotlin Multiplatform, and avatar systems**.
 
-The goal is to preserve native-level visual quality while making complex interactive systems more reusable and easier to develop with AI agents.
+### Creative Production Workflows
 
-### Realtime Characters
-
-I'm exploring realtime character experiences that combine face tracking, realtime communication, rendering, game-engine integration, and interactive effects.
-
-This extends my production work with **MediaPipe, ARKit, RTC, Unity, Kotlin Multiplatform, and avatar systems**.
+I'm exploring how Blender, 3D asset preparation, and AI-assisted tooling can fit into repeatable production workflows. The focus is on connecting modeling, materials, and runtime integration, with prototypes used to evaluate technical choices and guide implementation.
 
 ## Talks
 
@@ -103,6 +99,9 @@ A five-minute lightning talk about why facial-expression tracking can behave dif
 [iOSDC Japan 2026](https://iosdc.jp/2026/) · [Speaker Deck](https://speakerdeck.com/rio432)
 
 ## Engineering
+
+**Product & Technical Planning**  
+Product design · Requirements · Technology evaluation · Implementation planning · Prototyping
 
 **Mobile**  
 Kotlin · Swift · Android · iOS · Jetpack Compose · SwiftUI · Kotlin Multiplatform
