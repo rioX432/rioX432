@@ -46,6 +46,14 @@ A Rust tool that records agent sessions and makes delegation, tool usage, token 
 
 `Rust` · `Claude Code` · `MCP` · `Agent Observability`
 
+### [KMP-FaceLink](https://github.com/rioX432/KMP-FaceLink)
+
+**A Kotlin Multiplatform SDK for face, hand, and body tracking.**
+
+One tracking API that wraps MediaPipe on Android and ARKit / Vision on iOS, with experimental JVM and Wasm targets. Extension modules map blend shapes to VRM and Live2D parameters and connect to VRM apps and VTube Studio through VMC Protocol, iFacialMocap, and the VTube Studio Plugin API.
+
+`Kotlin Multiplatform` · `MediaPipe` · `ARKit` · `Vision` · `VRM` · `Live2D`
+
 ### [CivitDeck](https://github.com/rioX432/CivitDeck)
 
 **A native workspace for discovering and running generative AI models.**
